@@ -1,0 +1,76 @@
+.logo_mayviet{
+    font-size: 48px !important;
+    text-align: center;
+    color: #389395;
+    TEXT-TRANSFORM: UPPERCASE;
+    FONT-WEIGHT: 700;font-size: 48px !important;
+    text-align: center;
+    color: #389395;
+
+}
+.tab_mayviet{
+    font-size: 18px;
+    text-align: center;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    text-transform: uppercase;
+    color: #201F2E;
+    padding: 0 10px;
+}
+.logo{
+    text-align: right;
+    padding: 10px 20px;
+}
+.logo1{
+    padding-left: 25px;
+}
+.img_banner{
+    width: 680px;
+    height: 720px;
+}
+
+.gioHang{
+    position: absolute;
+    top: 8px;
+    right: 348px;
+    color: white;
+    background: RED;
+    width:  18px;
+    height: 18px;
+    border-radius: 50%;
+    text-align: center;
+    font-weight: 700;
+    font-size: 12px;
+}
+
+.banner_1{
+    position: relative;
+}
+.btn_1{
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    width: 150px;
+    height: 50px;
+    border: 0;
+    background: rgba(255, 255, 255, 0.719);
+    font-weight: 600;
+}
+.banner_2{
+    position: relative;
+}
+.btn_2{
+    position: absolute;
+    bottom: 10px;
+    right: 270px;
+    width: 150px;
+    height: 50px;
+    border: 0;
+    background: rgba(255, 255, 255, 0.719);
+    font-weight: 600;
+}
